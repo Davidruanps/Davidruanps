@@ -1,6 +1,6 @@
 # 🧑‍💻 David Ruan
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Meu nome é David Ruan. Possuo formação técnica em Informática pela E.E.E.P Professor Plácido Aderaldo Castelo e, atualmente, sou graduando em Sistemas de Informação pela Universidade Estadual do Ceará (UECE). Resido no estado do Ceará.
 
