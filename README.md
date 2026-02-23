@@ -60,11 +60,11 @@ Meu nome é David Ruan. Possuo formação técnica em Informática pela E.E.E.P 
 />
 <img 
     align="left" 
-    alt="Csharp" 
-    title="Csharp"
+    alt="Ruby" 
+    title="Rubg"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
 />
 
 <br/>
