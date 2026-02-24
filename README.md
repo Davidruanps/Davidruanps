@@ -64,7 +64,7 @@ Meu nome é David Ruan. Possuo formação técnica em Informática pela E.E.E.P 
     title="Rubg"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/golang/golang-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
 />
 
 <br/>
